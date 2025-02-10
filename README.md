@@ -18,4 +18,4 @@ JDBC (Java Database Connectivity)
 
 MySQL
 
-HTML, CSS, JavaScript (Frontend)
+HTML, CSS, JSP (Frontend)
